@@ -95,7 +95,7 @@ title: 项目
         <td>官方授权</td>
         <td>英文</td>
         <td>简体中文</td>
-        <td rowspan="3">不是汉化组</td>
+        <td rowspan="4">不是汉化组</td>
         <td><details><summary>汉化</summary>泰拉无名君<br>sbngbd<br>badbf-海啸<br>没名字<br>Chess_大概是屑<br>Aryen<br>Andrew_CF<br>DemoNii<br>ajchen<br>雪理奈<br>飞鸟</details><details><summary>测试</summary>~%?…;# *’☆&℃$︿★！<br>大艹人<br>提米<br>FH丶黇鹿<br>GOPTEN<br>恋.<br>苏维埃病人<br>香风の酥灿<br>一个萌萌的猹<br>一块懒aa(本人已死)<br>Polaris（CLE）</details></td>
         <td>已发布<br>最新版本：v1.2<br><details><summary>配布地址</summary><a href="https://www.bilibili.com/video/BV1igRaYZEHS">哔哩哔哩发布视频</a><br><a href="https://forum.gamer.com.tw/C.php?bsn=29347&snA=1502">巴哈姆特發佈貼文</a></details></td>
     </tr>
@@ -106,7 +106,16 @@ title: 项目
         <td>英文</td>
         <td>简体中文</td>
         <td><details><summary>程序/技术</summary>泰拉无名君<br>憨憨羊の宇航鸽鸽<br>天机Ceyase<br>晓晓_Akatsuki<br>AX暗星</details><details><summary>文翻/文校</summary>泰拉无名君<br>说吧那个不断<br>Chess_大概是屑<br>晓晓_Akatsuki</details><details><summary>字体补充</summary>C-G_O_A_T</details><details><summary>美术</summary>晓晓_Akatsuki</details><details><summary>着色器修复</summary>Zender Troop</details><details><summary>测试</summary>峰峦之上<br>千寻高塔<br>可言<br>屑moons月亮君<br>无伤苦手<br>是辰鸭<br>似乎要翻身的咸鱼京98<br>伸张正e<br>听雨<br>我再贪羁绊我就是鲨臂<br>酥灿敲可爱<br>小胡<br>雪理奈<br>喵~（反UT）<br>~%?…;# *’☆&℃$︿★！</details></td>
-        <td>已发布<details><summary>配布地址</summary><a href="https://www.bilibili.com/video/BV1h7Kyz3E7k">哔哩哔哩发布视频</a><br><a href="https://www.youtube.com/watch?v=OAw95hVJ9bQ">YouTube发布视频</a><br><a href="https://gamejolt.com/games/UTY_SOJ_CHS/1002593">Gamejolt 页面</a></td>
+        <td>已发布<details><summary>配布地址</summary><a href="https://www.bilibili.com/video/BV1h7Kyz3E7k">哔哩哔哩发布视频</a><br><a href="https://www.youtube.com/watch?v=OAw95hVJ9bQ">YouTube发布视频</a><br><a href="https://gamejolt.com/games/UTY_SOJ_CHS/1002593">Gamejolt 页面</a></details></td>
+    </tr>
+    <tr>
+        <td><a href="https://gamejolt.com/games/deltahub/997969">DELTAHUB Modding Tool</a></td>
+        <td><a href="https://gamejolt.com/@Y114">Y114</a></td>
+        <td>官方授权</td>
+        <td>英文</td>
+        <td>简体中文</td>
+        <td>Chess_大概是屑</td>
+        <td>已发布<br><a href="https://www.bilibili.com/video/BV1EuhzzBEf7">哔哩哔哩发布视频</a></td>
     </tr>
     <tr>
         <td><a href="https://gamejolt.com/games/UndertalePrism/986662">Undertale: Prism</a></td>
