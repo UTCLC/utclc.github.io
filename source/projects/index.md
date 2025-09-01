@@ -19,7 +19,9 @@ title: 项目
         <td>英文</td>
         <td>简体中文</td>
         <td rowspan="3">IGB Team CN</td>
-        <td><details><summary>项目负责人</summary>AX暗星233</details><details><summary>文翻/文校</summary>R.o.C.t.D./π/3.1415⑨<br>Bronie_</details><details><summary>程序/技术</summary>憨憨羊の宇航鸽鸽<br>智慧一</details><details><summary>美术</summary>小树叶不是树叶</details><details><summary>配音</summary>抑郁的三叶草<br>一只chara路过</details><details><summary>R.I.P</summary>红猹要吃巧克力</details></td>
+        <td><details><summary>项目负责人</summary>AX暗星233</details><details><summary>文翻/文校</summary>R.o.C.t.D./π/3.1415⑨<br>Bronie_</details><details><summary>程序/技术</summary>憨憨羊の宇航鸽鸽<br>智慧一</details><details><summary>美术</summary>小树叶不是树叶</details><details><summary>配音</summary>抑郁的三叶草<br>一只chara路过</details><details><summary>R.I.P</summary><span title="2023年3月11日 凌晨3：12
+红猹要吃巧克力 由于自身心理因素亲手结束了自己的生命，与世长辞...
+我们在此对她表示深深的悼念，愿她在天国永无伤痛。" style="border-bottom:1px dotted">红猹要吃巧克力</span></details></td>
         <td>进行中</td>
     </tr>
     <tr>
