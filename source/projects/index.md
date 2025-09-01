@@ -113,8 +113,8 @@ title: 项目
         <td><a href="https://gamejolt.com/@Y114">Y114</a></td>
         <td>官方授权</td>
         <td>英文</td>
-        <td>简体中文</td>
-        <td>Chess_大概是屑</td>
+        <td>简体中文<br>繁体中文</td>
+        <td>Chess_大概是屑<br><details><summary>繁体中文</summary>憨憨羊の宇航鸽鸽</details></td>
         <td>已发布<br><a href="https://www.bilibili.com/video/BV1EuhzzBEf7">哔哩哔哩发布视频</a></td>
     </tr>
     <tr>
