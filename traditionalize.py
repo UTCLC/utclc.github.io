@@ -51,6 +51,8 @@ def convert(directory):
 					content = cc.convert(content)
 					for replace in replaces_after.keys():
 						content = content.replace(replace, replaces_after[replace])
+					if (dirfile == "website.md"):
+						content = content.replace("cht.utclc.top", "utclc.top")
 					f.seek(0)
 					f.write(content)
 				except:
