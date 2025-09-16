@@ -62,3 +62,4 @@ def convert(directory):
 
 cc = OpenCC("s2twp.json")
 convert(".")
+os.remove(".github/dependabot.yml")
