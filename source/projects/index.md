@@ -68,7 +68,7 @@ title: 项目
         <td>官方授权</td>
         <td>英文</td>
         <td>简体中文</td>
-        <td rowspan="2">太岁爷汉化组</td>
+        <td rowspan="3">太岁爷汉化组</td>
         <td><details><summary>策划</summary>Herbert-Hyy</details><details><summary>文本</summary>Herbert-Hyy</details><details><summary>美术</summary>Raoko01<br>一根没用的太屑骨头</details><details><summary>程序/技术</summary>とある科学のCxx</details><details><summary>配音</summary>-_不正经的老霜蚀_-</details><details><summary>测试</summary>redyoshi35A<br>als2336<br>大鸡_霸王THE_BIHCOCK<br>卍无佚卐<br>A个大钉<br>Sad小杰<br>蛇臂<br>-七面骰子-<br>爱玩游戏的小狗蛋</details></td>
         <td>已发布<details><summary>配布地址</summary><a href="https://www.bilibili.com/video/BV13M4m117AZ">哔哩哔哩发布视频</a><br><a href="https://gamejolt.com/games/lajupovania_cn/915571">Gamejolt 页面</a></details></td>
     </tr>
@@ -80,6 +80,15 @@ title: 项目
         <td>简体中文</td>
         <td><details><summary>项目领导人</summary>redyoshi35a</details><details><summary>文本</summary>redyoshi35a<br>卍无佚卐<br>蛇臂</details><details><summary>程序/技术</summary>とある科学のCxx</details><details><summary>美术</summary>-七面骰子- <br>THE_BIHCOCK<br>UJB传说官方</details><details><summary>改编参考</summary>卍无佚卐</details><details><summary>宣发</summary>Herbert-Hyy</details><details><summary>测试</summary>Sad小杰</details></td>
         <td>已发布<details><summary>配布地址</summary><a href="https://www.bilibili.com/video/BV1eG2AYsEmv">哔哩哔哩发布视频</a><br><a href="https://gamejolt.com/games/CHssem/930345">Gamejolt 页面</a></details></td>
+    </tr>
+    <tr>
+        <td><a href="https://gamejolt.com/games/dusttale-last-genocide/513360">Dusttale: The Genocide's End</a></td>
+        <td><a href="https://gamejolt.com/@Experiment121">Team DTLG</a></td>
+        <td>官方授权</td>
+        <td>英文</td>
+        <td>简体中文</td>
+        <td><details><summary>文本</summary>redyoshi35a<br>卍无佚卐<br>Herbert-Hy</details><details><summary>程序/技术</summary>xmtx-unofficial</details><details><summary>美术</summary>-C0723゚</details><details><summary>特别感谢</summary>缪雨_FAN</details></td>
+        <td>已发布<details><summary>配布地址</summary><a href="https://www.bilibili.com/video/BV1pzZJB6E8T">哔哩哔哩发布视频</a><br><a href="https://gamejolt.com/games/dusttale-last-genocide/513360">Gamejolt 页面</a></details></td>
     </tr>
     <tr>
         <td><a href="https://gamejolt.com/games/undertale-kindred-spirits/1452170">Undertale: Kindred Spirits</a></td>
@@ -97,7 +106,7 @@ title: 项目
         <td>官方授权</td>
         <td>英文</td>
         <td>简体中文</td>
-        <td rowspan="4">不是汉化组</td>
+        <td rowspan="8">不是汉化组</td>
         <td><details><summary>汉化</summary>泰拉无名君<br>sbngbd<br>badbf-海啸<br>没名字<br>Chess_大概是屑<br>Aryen<br>Andrew_CF<br>DemoNii<br>ajchen<br>雪理奈<br>飞鸟</details><details><summary>测试</summary>~%?…;# *’☆&℃$︿★！<br>大艹人<br>提米<br>FH丶黇鹿<br>GOPTEN<br>恋.<br>苏维埃病人<br>香风の酥灿<br>一个萌萌的猹<br>一块懒aa(本人已死)<br>Polaris（CLE）</details></td>
         <td>已发布<br>最新版本：v1.2<br><details><summary>配布地址</summary><a href="https://www.bilibili.com/video/BV1igRaYZEHS">哔哩哔哩发布视频</a><br><a href="https://forum.gamer.com.tw/C.php?bsn=29347&snA=1502">巴哈姆特發佈貼文</a></details></td>
     </tr>
@@ -120,9 +129,45 @@ title: 项目
         <td>已发布<details><summary>配布地址</summary><a href="https://www.bilibili.com/video/BV1EuhzzBEf7">哔哩哔哩发布视频</a><br><a href="https://gamejolt.com/games/deltahub/997969">Gamejolt 页面</a></details></td>
     </tr>
     <tr>
+        <td><a href="https://gamebanana.com/mods/642559">No Words Spoken</a></td>
+        <td><a href="https://gamebanana.com/members/2129212">AcousticJamm</a></td>
+        <td>官方授权</td>
+        <td>英文</td>
+        <td>简体中文</td>
+        <td>Chess_大概是屑</td>
+        <td>已发布<details><summary>配布地址</summary><a href="https://www.bilibili.com/video/BV1W1cgzxECk">哔哩哔哩发布视频</a><br><a href="https://gamejolt.com/games/No-Words-Spoken-CHS/1050161">Gamejolt 页面</a></details></td>
+    </tr>
+    <tr>
+        <td><a href="https://gamebanana.com/mods/376524">Godhome</a></td>
+        <td><a href="https://gamebanana.com/members/1683349">vitellary</a></td>
+        <td>官方授权</td>
+        <td>英文</td>
+        <td>简体中文</td>
+        <td>Chess_大概是屑</td>
+        <td>已发布<details><summary>配布地址</summary><a href="https://www.bilibili.com/video/BV1Yvc5zUEbi">哔哩哔哩发布视频</a><br><a href="https://gamejolt.com/games/Godehome_CHS/1050863">Gamejolt 页面</a></details></td>
+    </tr>
+    <tr>
+        <td><a href="https://gamejolt.com/games/Wilterfangame/895372">Wilter's WonderLand</a></td>
+        <td><a href="https://gamejolt.com/@RazFraz">RazFraz</a></td>
+        <td>官方授权</td>
+        <td>英文</td>
+        <td>简体中文</td>
+        <td>Chess_大概是屑</td>
+        <td>已发布<details><summary>配布地址</summary><a href="https://www.bilibili.com/video/BV1paZLBfErR">哔哩哔哩发布视频</a><br><a href="https://gamejolt.com/games/Wilterfangame_CHS/1050599">Gamejolt 页面</a></details></td>
+    </tr>
+    <tr>
         <td><a href="https://gamejolt.com/games/UndertalePrism/986662">Undertale: Prism</a></td>
         <td><a href="https://gamejolt.com/@piplup4040">piplup4040</a></td>
         <td>官方授权</td>
+        <td>英文</td>
+        <td>简体中文</td>
+        <td>-</td>
+        <td>进行中</td>
+    </tr>
+    <tr>
+        <td><a href="https://gamejolt.com/games/undertalegreen/893794">Undertale Green</a></td>
+        <td><a href="https://gamejolt.com/@UTG_Team">UTG_Team</a></td>
+        <td>-</td>
         <td>英文</td>
         <td>简体中文</td>
         <td>-</td>
@@ -134,7 +179,7 @@ title: 项目
         <td>未授权</td>
         <td>英文</td>
         <td>简体中文</td>
-        <td rowspan="3">回音花汉化组</td>
+        <td rowspan="4">回音花汉化组</td>
         <td><details><summary>技术/程序</summary>AX暗星233<br>幻-_-风</details><details><summary>美术</summary>幻-_-风</details><details><summary>文本</summary>钟某人是也<br>吉神同学<br>川水-天问<br>柠檬大帝<br>做羊就做喜羊羊<br>AX暗星233<br>命令方块-official<br>幻-_-风</details><details><summary>测试</summary>命令方块-official<br>事气功豆不是寄功豆<br>幻-_-风</details></td>
         <td>已发布<br><a href="https://pan.baidu.com/s/1ZjKsQgQIYhG9BF2T4DhwTw?pwd=AAAA">百度网盘<br>提取码 AAAA</a></td>
     </tr>
@@ -150,6 +195,15 @@ title: 项目
     <tr>
         <td><a href="https://gamejolt.com/games/ut_tsok/936531">Undertale: The Story of Kindness</a></td>
         <td><a href="https://gamejolt.com/@Team_TSoK">Team TSoK</a></td>
+        <td>官方授权</td>
+        <td>英文</td>
+        <td>简体中文</td>
+        <td>-</td>
+        <td>进行中</td>
+    </tr>
+    <tr>
+        <td><a href="https://gamejolt.com/games/chastertale/317231">Chastertale: The Coming of Dawn</a></td>
+        <td><a href="https://gamejolt.com/@ChasterVersion">ChasterVersion</a></td>
         <td>官方授权</td>
         <td>英文</td>
         <td>简体中文</td>
