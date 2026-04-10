@@ -1,7 +1,7 @@
 Hexo + Acorn<br>
 Namesilo Domain + Cloudflare CDN
 
-[简体中文站](https://utclc.top) / [繁体中文站](https://cht.utclc.top)
+[简体中文站](https://chs.utclc.top) / [繁体中文站](https://cht.utclc.top)
 
 仓库收到 Push 后自动触发 Github Actions 部署到 Github Pages<br>
 同时触发另一个 Action 运行 Python 运行 `traditionalize.py`<br>

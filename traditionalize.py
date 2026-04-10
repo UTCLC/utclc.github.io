@@ -4,9 +4,9 @@ import os
 skips = ["node_modules", "public", "cht_replace"]
 replaces = {
 	"https://github.com/UTCLC/utclc.github.io":"https://github.com/UTCLC/website_cht",
-	"utclc.top":"cht.utclc.top",
-	r'<ul class="list-inline">你现在正在浏览的是简体中文站。<br>点击前往<a class="font-w-bold" href="https://cht.cht.utclc.top" target="_self">繁体中文站</a>（实验性）。</ul>':
-	r'<ul class="list-inline">你現在正在繁體中文站，此站點為實驗性，可能會有潛在的問題。<br>請透過 <a class="font-w-bold" href="https://github.com/UTCLC/website_cht/issues" target="_blank">Github Issue</a> 回報你遇到的錯誤。<br>点击返回<a class="font-w-bold" href="https://utclc.top" target="_self">簡體中文站</a>。</ul>',
+	"chs.utclc.top":"cht.utclc.top",
+	r'<ul class="list-inline">你现在正在浏览的是简体中文站。<br>点击前往<a class="font-w-bold" href="https://cht.utclc.top" target="_self">繁体中文站</a>（实验性）。</ul>':
+	r'<ul class="list-inline">你現在正在繁體中文站，此站點為實驗性，可能會有潛在的問題。<br>請透過 <a class="font-w-bold" href="https://github.com/UTCLC/website_cht/issues" target="_blank">Github Issue</a> 回報你遇到的錯誤。<br>点击返回<a class="font-w-bold" href="https://chs.utclc.top" target="_self">簡體中文站</a>。</ul>',
 	"zh-CN":"zh-TW",
 	"zh-hans":"zh-hant",
 	"扩展":"拓展",
@@ -51,8 +51,6 @@ def convert(directory):
 					content = cc.convert(content)
 					for replace in replaces_after.keys():
 						content = content.replace(replace, replaces_after[replace])
-					if (dirfile == "website.md"):
-						content = content.replace("cht.utclc.top", "utclc.top")
 					f.seek(0)
 					f.write(content)
 				except:
