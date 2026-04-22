@@ -10,11 +10,11 @@
   <%- partial('_partial/mobile-nav') %>
   <%- partial('_partial/after-footer') %>
 </body>
-<!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
-<script type="text/javascript" src="https://www.termsfeed.com/public/cookie-consent/4.2.0/cookie-consent.js" charset="UTF-8"></script>
+<!-- Cookie Consent -->
+<script src="<%- url_for(`/js/cookie-consent.js`) %>" defer></script>
 <script type="text/javascript" charset="UTF-8">
 document.addEventListener('DOMContentLoaded', function () {
-cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"light","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_name":"UNDERTALE 中文本地化社区","website_privacy_policy_url":"https://chs.utclc.top/privacy-policy/"});
+cookieconsent.run();
 });
 </script>
 </html>
